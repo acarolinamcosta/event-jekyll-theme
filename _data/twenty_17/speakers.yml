@@ -4,6 +4,12 @@
   subtitle: L'Ecole polytechnique fédérale de Lausanne, Switzerland
   img: Buffa.jpg
 
+- title: Gershon Elber
+  website: http://www.cs.technion.ac.il/~gershon/
+  conference: SPM
+  subtitle: Technion - Israel Institute of Technology, Israel
+  img: GershonElber.jpg
+
 - title: Ligang Liu
   website: http://staff.ustc.edu.cn/~lgliu/
   conference: SPM
